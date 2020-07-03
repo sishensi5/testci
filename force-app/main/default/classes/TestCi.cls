@@ -1,5 +1,5 @@
 public with sharing class TestCi {
-    public TestCixxxx() {
+    public TestCixxxx(yyyyyy) {
 
     }
 }
